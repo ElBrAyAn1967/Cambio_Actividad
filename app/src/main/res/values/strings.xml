@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto7.1</string>
+    <string name="button">Ingresar a la pagina 2</string>
+    <string name="button2">Ingresar a la pagina 1</string>
+    <string name="button3">Ingresar a la pagina 3</string>
+    <string name="button4">Ingresar a la pagina 1</string>
+</resources>
